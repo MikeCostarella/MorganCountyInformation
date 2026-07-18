@@ -13,6 +13,8 @@ export const CATEGORIES = [
   "News & Media",
 ];
 
+export const AUDITOR_VENDOR = "Data Dynamics (DDTI)";
+
 export const LINKS = [
   // ---------- Government ----------
   { name: "Morgan County (Official Site)", category: "Government", subcategory: "County", url: "https://www.morgancounty-oh.gov/", description: "Official Morgan County government website — offices, services, and notices." },
